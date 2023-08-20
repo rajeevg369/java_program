@@ -3,7 +3,7 @@ import java.util.*;
 import java.lang.*;
 class Main
 {
-    int curpin=1000;
+    int curpin=9263;
     double balance=100000;
     double withdrawn_amount=0;
     double deposit_amount=0;
